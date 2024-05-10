@@ -1,0 +1,14 @@
+Площадь круга: 12.566370614359172
+Площадь прямоугольника: 4.0
+Машина двигается.
+Самолет летит.
+University -> HSE
+ID: 2, Имя: Kulash, Фамилия: Kulashova, Средний балл: 3.8
+ID: 3, Имя: Imanbek, Фамилия: Imanbekov, Средний балл: 3.95
+
+University -> MTUCI
+ID: 2, Имя: Vladislav, Фамилия: Ivanov, Средний балл: 3.97
+ID: 3, Имя: Ivan, Фамилия: Ivanov, Средний балл: 3.97
+
+Name: Maria, Age: 0, Is a kitten: true
+Name: Alpha, Breed: Border Collie
